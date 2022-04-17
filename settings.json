@@ -1,0 +1,68 @@
+{
+    "window.zoomLevel": 2,
+    "editor.formatOnSave": true,
+    "workbench.sideBar.location": "right",
+    "workbench.colorTheme": "Night Owl (No Italics)",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.productIconTheme": "material-product-icons",
+    "editor.fontFamily": "'Cascadia Code PL'",
+    "editor.wordWrap": "on",
+    "editor.bracketPairColorization.enabled": true,
+    "editor.guides.bracketPairs": true,
+    "editor.mouseWheelZoom": true,
+    "editor.renderWhitespace": "all",
+    "editor.smoothScrolling": true,
+    "editor.cursorBlinking": "expand",
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.fontLigatures": true,
+    "editor.minimap.enabled": false,
+    "editor.acceptSuggestionOnEnter": "off",
+    "workbench.enableExperiments": false,
+    "workbench.list.smoothScrolling": true,
+    "workbench.startupEditor": "none",
+    "workbench.welcomePage.walkthroughs.openOnInstall": false,
+    "window.enableMenuBarMnemonics": false,
+    "explorer.experimental.fileNesting.expand": false,
+    "telemetry.telemetryLevel": "off",
+    "python.experiments.enabled": false,
+    "jupyter.experiments.enabled": false,
+    "terminal.integrated.experimentalLinkProvider": false,
+    "window.title": "💖${dirty}${activeEditorShort} 💖 | 🔁 🍵 ➡ </>",
+    "workbench.colorCustomizations": {
+        "[Night Owl]": {
+            "activityBar.background": "#000C1D",
+            "activityBar.border": "#102a44",
+            "editorGroup.border": "#102a44",
+            "sideBar.background": "#001122",
+            "sideBar.border": "#102a44",
+            "sideBar.foreground": "#8BADC1"
+        },
+        "[Night Owl (No Italics)]": {
+            "activityBar.background": "#000C1D",
+            "activityBar.border": "#102a44",
+            "editorGroup.border": "#102a44",
+            "sideBar.background": "#001122",
+            "sideBar.border": "#102a44",
+            "sideBar.foreground": "#8BADC1"
+        }
+    },
+    "editor.tokenColorCustomizations": {
+        "[GitHub Dark]": {
+            "comments": "#ff00bf",
+            "strings": "#00ffdd"
+        },
+        "[Night Owl (No Italics)]": {
+            "comments": "#ffe7f9b6"
+        }
+    },
+    "window.titleSeparator": "  ↔  ",
+    "[jsonc]": {
+        "editor.defaultFormatter": "vscode.json-language-features"
+    },
+    "[html]": {
+        // "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "vscode-edge-devtools.mirrorEdits": true,
+    "update.mode": "manual",
+    "git.autofetch": true
+}
